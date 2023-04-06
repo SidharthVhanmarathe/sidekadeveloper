@@ -7,10 +7,10 @@ import EventPropagation from './JavaScriptPractice/EventPropagation';
 function App() {
   return (
     <div className="">
-      {/* <Navbar /> */}
+      <Navbar />
     {/* <FunctionalS /> */}
 {/* <ClassWala /> */}
-<EventPropagation />
+{/* <EventPropagation /> */}
     </div>
   );
 }
