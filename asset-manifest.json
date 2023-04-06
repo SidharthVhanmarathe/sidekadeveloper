@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sidekadeveloper/static/css/main.b103924e.css",
+    "main.js": "/sidekadeveloper/static/js/main.cc29cd68.js",
+    "static/js/787.436daf27.chunk.js": "/sidekadeveloper/static/js/787.436daf27.chunk.js",
+    "index.html": "/sidekadeveloper/index.html",
+    "main.b103924e.css.map": "/sidekadeveloper/static/css/main.b103924e.css.map",
+    "main.cc29cd68.js.map": "/sidekadeveloper/static/js/main.cc29cd68.js.map",
+    "787.436daf27.chunk.js.map": "/sidekadeveloper/static/js/787.436daf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b103924e.css",
+    "static/js/main.cc29cd68.js"
+  ]
+}
